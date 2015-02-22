@@ -64,8 +64,11 @@ Following are variable description, they are described by "variable name","varia
 "29" tBodyGyroJerk-mean()-Z numeric null
 
 "30" tBodyGyroJerk-std()-X numeric null
+
 "31" tBodyGyroJerk-std()-Y numeric null
+
 "32" tBodyGyroJerk-std()-Z numeric null
+
 "33" tBodyAccMag-mean() numeric null
 "34" tBodyAccMag-std() numeric null
 "35" tGravityAccMag-mean() numeric null
