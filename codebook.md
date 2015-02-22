@@ -22,26 +22,47 @@ Following are variable description, they are described by "variable name","varia
 "8" tBodyAcc-std()-Z numeric null
 
 "9" tGravityAcc-mean()-X numeric null
+
 "10" tGravityAcc-mean()-Y numeric null
+
 "11" tGravityAcc-mean()-Z numeric null
+
 "12" tGravityAcc-std()-X numeric null
+
 "13" tGravityAcc-std()-Y numeric null
+
 "14" tGravityAcc-std()-Z numeric null
+
 "15" tBodyAccJerk-mean()-X numeric null
+
 "16" tBodyAccJerk-mean()-Y numeric null
+
 "17" tBodyAccJerk-mean()-Z numeric null
+
 "18" tBodyAccJerk-std()-X numeric null
+
 "19" tBodyAccJerk-std()-Y numeric null
+
 "20" tBodyAccJerk-std()-Z numeric null
+
 "21" tBodyGyro-mean()-X numeric null
+
 "22" tBodyGyro-mean()-Y numeric null
+
 "23" tBodyGyro-mean()-Z numeric null
+
 "24" tBodyGyro-std()-X numeric null
+
 "25" tBodyGyro-std()-Y numeric null
+
 "26" tBodyGyro-std()-Z numeric null
+
 "27" tBodyGyroJerk-mean()-X numeric null
+
 "28" tBodyGyroJerk-mean()-Y numeric null
+
 "29" tBodyGyroJerk-mean()-Z numeric null
+
 "30" tBodyGyroJerk-std()-X numeric null
 "31" tBodyGyroJerk-std()-Y numeric null
 "32" tBodyGyroJerk-std()-Z numeric null
