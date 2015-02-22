@@ -4,8 +4,11 @@ Following are variable description, they are described by "variable name","varia
 
 
 "variable name" "variable type" "unit"
+
 "1" subject integer people
+
 "2" activity factor activity type
+
 "3" tBodyAcc-mean()-X numeric null
 "4" tBodyAcc-mean()-Y numeric null
 "5" tBodyAcc-mean()-Z numeric null
