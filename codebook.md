@@ -10,11 +10,17 @@ Following are variable description, they are described by "variable name","varia
 "2" activity factor activity type
 
 "3" tBodyAcc-mean()-X numeric null
+
 "4" tBodyAcc-mean()-Y numeric null
+
 "5" tBodyAcc-mean()-Z numeric null
+
 "6" tBodyAcc-std()-X numeric null
+
 "7" tBodyAcc-std()-Y numeric null
+
 "8" tBodyAcc-std()-Z numeric null
+
 "9" tGravityAcc-mean()-X numeric null
 "10" tGravityAcc-mean()-Y numeric null
 "11" tGravityAcc-mean()-Z numeric null
