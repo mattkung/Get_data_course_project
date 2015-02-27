@@ -1,5 +1,33 @@
 This is the codebook for tidy_data_set.txt
 
+Via run_analysis.R, I do follwoing steps to summarize data
+
+1. Merges the training and the test sets to create one data set.
+
+2. bind test/train to their subects and activities
+
+3. bind test and train together
+
+4. Uses descriptive activity names to name the activities in the data set
+
+5. the original dataset only note the activity type by integer, I use merge method to change it to descriptive activity name, like walking.
+6. Remove the duplicated column from the merge
+
+7. Appropriately labels the data set with descriptive variable names.
+
+8. using feature.txt to lable variable names
+
+9. Extracts only the measurements on the mean and standard deviation for each measurement.
+
+10.the tidy data only need measurements about mean and standard deviation, using grep to find mean and std
+
+11. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+12. since the original dataset has duplicated column, I delete them first.
+using dplyr's group_by and summarise_each to compute mean by every subject and every activity
+
+
+
 Following are variable description, they are described by "variable name","variable type","unit"
 
 
